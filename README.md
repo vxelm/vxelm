@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm vxelm 👨‍💻
 
-<!--
-**vxelm/vxelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🇲🇽 Data Engineering Student & IR Specialist
+> **D.R.E.A.M.** - *Data Rules Everything Around Me*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Current Status
+Merging **Geopolitical Analysis** (International Relations) with **Systems Engineering**. 
+Focused on building robust data pipelines, automation scripts, and scraping tools to structure global information.
+
+* 🔭 **Working on:** `kavak_scraper` & National Registry of Missing Persons (RNPDNO) ETL.
+* 🧠 **Interest:** Data Governance, OSINT, & System Automation.
+* 📍 **Based in:** Mexico City.
+
+---
+
+### 🛠 Tech Stack
+
+**Core**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**Data & Automation**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+#### 1. [kavak_scraper](https://github.com/vxelm/kavak_scraper)
+*Web Scraping / Data Collection*
+Python tool designed to extract and structure automotive market data from Kavak.
+* **Stack:** Python, Selenium/Soup.
+
+#### 2. RNPDNO Pipeline (In Development)
+*Data Engineering / Social Impact*
+ETL project to index the National Registry of Missing Persons in Mexico for geopolitical analysis.
+* **Goal:** Structure unstructured government data.
+
+#### 3. HDMI Auto-Switch (Private/WIP)
+*System Automation*
+Script to automate display and audio output configurations upon hardware detection.
+
+---
+
+### 📊 Activity
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=vxelm&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="vxelm's stats" />
+</p>
+
+---
+
+### 🌐 Network
+<a href="https://instagram.com/offset_db">
+  <img src="https://img.shields.io/badge/offset__db-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/TU-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
