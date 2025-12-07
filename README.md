@@ -58,6 +58,6 @@ Script to automate display and audio output configurations upon hardware detecti
 <a href="https://instagram.com/offset_db">
   <img src="https://img.shields.io/badge/offset__db-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/TU-LINKEDIN">
+<a href="https://www.linkedin.com/in/axelm45/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
