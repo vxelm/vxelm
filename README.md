@@ -7,7 +7,7 @@
 
 ### ⚡ Current Status
 Merging **Geopolitical Analysis** (International Relations) with **Systems Engineering**. 
-Focused on building robust data pipelines, automation scripts, and scraping tools to structure global information.
+Focused on building data pipelines, automation scripts, and scraping tools to structure global information.
 
 * 🔭 **Working on:** `kavak_scraper` & National Registry of Missing Persons (RNPDNO) ETL.
 * 🧠 **Interest:** Data Governance, OSINT, & System Automation.
@@ -38,8 +38,8 @@ Python tool designed to extract and structure automotive market data from Kavak.
 
 #### 2. RNPDNO Pipeline (In Development)
 *Data Engineering / Social Impact*
-ETL project to index the National Registry of Missing Persons in Mexico for geopolitical analysis.
-* **Goal:** Structure unstructured government data.
+ETL project designed to visualize and analyze the National Registry of Missing Persons in Mexico.
+* **Goal:** Contribute to search efforts by improving data visibility and accessibility.
 
 #### 3. HDMI Auto-Switch (Private/WIP)
 *System Automation*
