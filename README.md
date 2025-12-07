@@ -48,9 +48,8 @@ Script to automate display and audio output configurations upon hardware detecti
 ---
 
 ### 📊 Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=vxelm&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="vxelm's stats" />
-</p>
+![vxelm's Stats](https://github-readme-stats.vercel.app/api?username=vxelm&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vxelm&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 ---
 
