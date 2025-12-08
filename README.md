@@ -1,16 +1,17 @@
 # Hi, I'm vxelm 👨‍💻
 
 ### 🇲🇽 Data Engineering Student & IR Specialist
-> **D.R.E.A.M.** - *Data Rules Everything Around Me*
+**D.R.E.A.M.** - *Data Rules Everything Around Me*
 
 ---
 
-### ⚡ Current Status
-Merging **Geopolitical Analysis** (International Relations) with **Systems Engineering**. 
-Focused on building data pipelines, automation scripts, and scraping tools to structure global information to advance international social and human progress.
+### 🎯 Mission
+> *"Focused on building data pipelines, automation scripts, and scraping tools to structure global information to advance international social and human progress."*
 
-* 🔭 **Working on:** `kavak_scraper` & National Registry of Missing Persons (RNPDNO) ETL.
-* 🧠 **Interest:** Data Governance, OSINT, & System Automation.
+Merging **Geopolitical Analysis** (International Relations) with **Systems Engineering** to understand the world through data.
+
+* 🔭 **Working on:** `kavak_scraper` & National Registry of Missing Persons (RNPDNO).
+* 🧠 **Interests:** Data Governance, OSINT, & System Automation.
 * 📍 **Based in:** Mexico City.
 
 ---
@@ -32,18 +33,20 @@ Focused on building data pipelines, automation scripts, and scraping tools to st
 ### 🚀 Projects
 
 #### 1. [kavak_scraper](https://github.com/vxelm/kavak_scraper)
-*Web Scraping / Data Collection*
+*Market Transparency / Data Collection*
 Python tool designed to extract and structure automotive market data from Kavak.
 * **Stack:** Python, Selenium/Soup.
 
 #### 2. RNPDNO Pipeline (In Development)
-*Data Engineering / Social Impact*
+*Data for Social Impact*
 ETL project designed to visualize and analyze the National Registry of Missing Persons in Mexico.
 * **Goal:** Contribute to search efforts by improving data visibility and accessibility.
 
 #### 3. HDMI Auto-Switch (Private/WIP)
 *System Automation*
 Script to automate display and audio output configurations upon hardware detection.
+
+---
 
 ### 🌐 Network
 <a href="https://instagram.com/offset_db">
