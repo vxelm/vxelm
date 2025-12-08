@@ -7,7 +7,7 @@
 
 ### ⚡ Current Status
 Merging **Geopolitical Analysis** (International Relations) with **Systems Engineering**. 
-Focused on building data pipelines, automation scripts, and scraping tools to structure global information.
+Focused on building data pipelines, automation scripts, and scraping tools to structure global information to advance international social and human progress.
 
 * 🔭 **Working on:** `kavak_scraper` & National Registry of Missing Persons (RNPDNO) ETL.
 * 🧠 **Interest:** Data Governance, OSINT, & System Automation.
@@ -44,14 +44,6 @@ ETL project designed to visualize and analyze the National Registry of Missing P
 #### 3. HDMI Auto-Switch (Private/WIP)
 *System Automation*
 Script to automate display and audio output configurations upon hardware detection.
-
----
-
-### 📊 Activity
-![vxelm's Stats](https://github-readme-stats.vercel.app/api?username=vxelm&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vxelm&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
----
 
 ### 🌐 Network
 <a href="https://instagram.com/offset_db">
