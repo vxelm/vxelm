@@ -1,54 +1,46 @@
 # Hi, I'm vxelm 👨‍💻
 
-### 🇲🇽 Data Engineering Student & IR Specialist
+### 🇲🇽 Data Engineer | Strategic Analysis & Automation
 **D.R.E.A.M.** - *Data Rules Everything Around Me*
 
 ---
 
-### 🎯 Mission
-> *"Focused on building data pipelines, automation scripts, and scraping tools to structure global information to advance international social and human progress."*
+### 🎯 Professional Focus
+> *"Engineering robust data infrastructures to turn global noise into actionable intelligence."*
 
-Merging **Geopolitical Analysis** (International Relations) with **Systems Engineering** to understand the world through data.
+I leverage a dual background in **Systems Engineering** and **International Relations** to build data solutions that are not only technically sound but contextually aware. My focus is on **Market Intelligence**, **Regulatory Compliance**, and **Civic Technology**.
 
-* 🔭 **Working on:** `kavak_scraper` & National Registry of Missing Persons (RNPDNO).
-* 🧠 **Interests:** Data Governance, OSINT, & System Automation.
-* 📍 **Based in:** Mexico City.
-
----
-
-### 🛠 Tech Stack
-
-**Core**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-
-**Data & Automation**
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+* 🔭 **Current Focus:** Building ETL pipelines for high-volume unstructured data (Real Estate & Automotive Markets).
+* 🧠 **Core Competencies:** Data Governance, Web Scraping Architecture, Strategic Analysis.
+* 📍 **Location:** Mexico City (Open to Remote/Relocation).
 
 ---
 
-### 🚀 Projects
+### 🛠 Tech & Domain Stack
 
-#### 1. [kavak_scraper](https://github.com/vxelm/kavak_scraper)
-*Market Transparency / Data Collection*
-Python tool designed to extract and structure automotive market data from Kavak.
-* **Stack:** Python, Selenium/Soup.
+| **Data Engineering** | **Analysis & Automation** | **Domain Knowledge** |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | 🏛️ Regulatory Analysis |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | 📊 Market Intelligence |
+| ![Bash](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ⚖️ Data Governance |
 
-#### 2. RNPDNO Pipeline (In Development)
-*Data for Social Impact*
-ETL project designed to visualize and analyze the National Registry of Missing Persons in Mexico.
-* **Goal:** Contribute to search efforts by improving data visibility and accessibility.
+---
 
-#### 3. HDMI Auto-Switch (Private/WIP)
+### 🚀 Key Projects
+
+#### 1. [Automated Market Intelligence Pipeline (Kavak)](https://github.com/vxelm/kavak_scraper)
+*Market Analysis / Pricing Strategy*
+An automated extraction architecture designed to monitor pricing fluctuations in the secondary automotive market.
+* **Business Logic:** Enables detection of arbitrage opportunities and depreciation patterns in real-time.
+* **Stack:** Python, Selenium, SQL, Pandas.
+
+#### 2. Hardware Auto-Config Script (Private)
 *System Automation*
-Script to automate display and audio output configurations upon hardware detection.
+Shell scripting for automated environment configuration based on hardware detection (HDMI/Audio triggers).
 
 ---
 
-### 🌐 Network
+### 🌐 Connect
 <a href="https://instagram.com/offset_db">
   <img src="https://img.shields.io/badge/offset__db-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
