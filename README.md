@@ -8,9 +8,9 @@
 ### 🎯 Professional Focus
 > *"Engineering robust data infrastructures to turn global noise into actionable intelligence."*
 
-I leverage a dual background in **Systems Engineering** and **International Relations** to build data solutions that are not only technically sound but contextually aware. My focus is on **Market Intelligence**, **Regulatory Compliance**, and **Civic Technology**.
+I leverage a dual background in **Computer Systems** and **International Relations** to build data solutions that align technical precision with business strategy. My focus is on **Market Intelligence**, **Regulatory Compliance**, and **Civic Technology**.
 
-* 🔭 **Current Focus:** Building ETL pipelines for high-volume unstructured data (Real Estate & Automotive Markets).
+* 🔭 **Current Focus:** Building ETL pipelines for high-volume unstructured data (Macroeconomic & Automotive Markets).
 * 🧠 **Core Competencies:** Data Governance, Web Scraping Architecture, Strategic Analysis.
 * 📍 **Location:** Mexico City (Open to Remote/Relocation).
 
