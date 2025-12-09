@@ -6,7 +6,7 @@
 ---
 
 ### 🎯 Professional Focus
-> *"Engineering robust data infrastructures to turn global noise into actionable intelligence."*
+> *"Turning global noise into actionable intelligence."*
 
 I leverage a dual background in **Computer Systems** and **International Relations** to build data solutions that align technical precision with business strategy. My focus is on **Market Intelligence**, **Regulatory Compliance**, and **Civic Technology**.
 
