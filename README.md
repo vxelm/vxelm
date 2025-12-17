@@ -6,12 +6,12 @@
 ---
 
 ### 🎯 Professional Focus
-> *"Turning global noise into actionable intelligence."*
+> *"Engineering data solutions for global market dominance."*
 
-I leverage a dual background in **Computer Systems** and **International Relations** to build data solutions that align technical precision with business strategy. My focus is on **Market Intelligence**, **Regulatory Compliance**, and **Civic Technology**.
+I leverage a dual background in **Computer Systems** and **International Relations** to bridge the gap between technical execution and global business strategy. My focus is on **Market Intelligence**, **Regulatory Compliance**, and **Geoeconomics**.
 
-* 🔭 **Current Focus:** Building ETL pipelines for high-volume unstructured data (Macroeconomic & Automotive Markets).
-* 🧠 **Core Competencies:** Data Governance, Web Scraping Architecture, Strategic Analysis.
+* 🔭 **Current Focus:** Building ETL & Data Engineering for high-volume Economic & Commercial datasets (Kavak/TradingEconomics scope).
+* 🧠 **Core Competencies:** Data Governance, Web Scraping Architecture, Global Market Analytics, Python for Finance/Economics.
 * 📍 **Location:** Mexico City (Open to Remote/Relocation).
 
 ---
