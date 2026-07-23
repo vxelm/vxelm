@@ -1,49 +1,21 @@
-# Hi, I'm vxelm 👨‍💻
+# Axel Guzmán
 
-### 🇲🇽 Data Engineer | Strategic Analysis & Automation
-**D.R.E.A.M.** - *Data Rules Everything Around Me*
+Systems Engineering student at ESCOM-IPN, focused on data engineering.
 
----
+## Projects
 
-### 🎯 Professional Focus
-> *"Engineering data solutions for global market dominance."*
+**[rosetta-project](https://github.com/vxelm/rosetta-project)** — End-to-end streaming system for urban mobility. Python simulator emits GPS and passenger events into PostgreSQL + PostGIS; a Streamlit dashboard renders live fleet state, route deviations, and revenue. Uses event sourcing for passenger lifecycle and a demand model calibrated as a sum of Gaussians.
 
-I leverage a dual background in **Computer Systems** and **International Relations** to bridge the gap between technical execution and global business strategy. My focus is on **Market Intelligence**, **Regulatory Compliance**, and **Geoeconomics**.
+**[kavak-scraper](https://github.com/vxelm/kavak_scraper)** — Three-stage ETL pipeline that builds a historical dataset of used-car prices and financing terms from Kavak México. Concurrent crawler with retry and User-Agent rotation, Pydantic validation, idempotent persistence to PostgreSQL.
 
-* 🔭 **Current Focus:** Building ETL & Data Engineering for high-volume Economic & Commercial datasets (Kavak/TradingEconomics scope).
-* 🧠 **Core Competencies:** Data Governance, Web Scraping Architecture, Global Market Analytics, Python for Finance/Economics.
-* 📍 **Location:** Mexico City (Open to Remote/Relocation).
+## Stack
 
----
+Python · SQL · PostgreSQL / PostGIS · Docker · SQLModel · Pydantic · BeautifulSoup · Streamlit
 
-### 🛠 Tech & Domain Stack
+## Background
 
-| **Data Engineering** | **Analysis & Automation** | **Domain Knowledge** |
-| :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | 🏛️ Regulatory Analysis |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | 📊 Market Intelligence |
-| ![Bash](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ⚖️ Data Governance |
+Before Computer Science, I studied International Relations at UNAM. That program strengthened how I frame problems — starting from the business question before the technical solution — and developed my English to B2+.
 
----
+## Contact
 
-### 🚀 Key Projects
-
-#### 1. [Automated Market Intelligence Pipeline (Kavak)](https://github.com/vxelm/kavak_scraper)
-*Market Analysis / Pricing Strategy*
-An automated extraction architecture designed to monitor pricing fluctuations in the secondary automotive market.
-* **Business Logic:** Enables detection of arbitrage opportunities and depreciation patterns in real-time.
-* **Stack:** Python, Selenium, SQL, Pandas.
-
-#### 2. Hardware Auto-Config Script (Private)
-*System Automation*
-Shell scripting for automated environment configuration based on hardware detection (HDMI/Audio triggers).
-
----
-
-### 🌐 Connect
-<a href="https://instagram.com/offset_db">
-  <img src="https://img.shields.io/badge/offset__db-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/axelm45/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[LinkedIn](https://www.linkedin.com/in/axelm45/) · [Email](mailto:axguzvega@gmail.com)
