@@ -8,6 +8,8 @@ Systems Engineering student at ESCOM-IPN, focused on data engineering.
 
 **[kavak-scraper](https://github.com/vxelm/kavak_scraper)** — Three-stage ETL pipeline that builds a historical dataset of used-car prices and financing terms from Kavak México. Concurrent crawler with retry and User-Agent rotation, Pydantic validation, idempotent persistence to PostgreSQL.
 
+**[kavak-analyzer](https://kavak-analyzer.streamlit.app)** ([code](https://github.com/vxelm/kavak-analyzer)) — Interactive dashboard for used-car market segmentation. Consumes the dataset produced by kavak-scraper. K-Means clustering identifies three market tiers and a depreciation barrier at ~70,000 km. Deployed to Streamlit Cloud.
+
 ## Stack
 
 Python · SQL · PostgreSQL / PostGIS · Docker · SQLModel · Pydantic · BeautifulSoup · Streamlit
